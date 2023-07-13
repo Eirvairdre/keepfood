@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":["geocoder"],"mappings":"+sBAAA,4DACA,8B,aASeA,iB","sourcesContent":["import geocoder from './geocoder';\nimport {\n  Position,\n  Bounds,\n  CircularRegion,\n  GeocoderOptions,\n  GeocodingObject,\n} from './types';\n\nexport { Position, Bounds, CircularRegion, GeocoderOptions, GeocodingObject };\nexport default geocoder;\n"]}

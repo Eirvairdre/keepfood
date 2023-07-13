@@ -1,0 +1,2 @@
+Object.defineProperty(exports,"__esModule",{value:true});exports.default=void 0;var _reactNative=require("react-native");var nativeGeocoder=_reactNative.NativeModules.RNGeocoder;var _default=nativeGeocoder;exports.default=_default;
+//# sourceMappingURL=native.js.map
