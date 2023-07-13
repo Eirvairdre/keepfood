@@ -1,0 +1,21 @@
+{
+  "name": "react-native-geocoder",
+  "version": "1.0.0-alpha.7",
+  "summary": "Multi-platform geocoder library for React Native apps.",
+  "homepage": "https://github.com/timwangdev/react-native-geocoder-reborn#readme",
+  "license": "MIT",
+  "authors": "Yao Wang <tim.wangyao@gmail.com> (https://github.com/timwangdev)",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/timwangdev/react-native-geocoder-reborn.git",
+    "tag": "1.0.0-alpha.7"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

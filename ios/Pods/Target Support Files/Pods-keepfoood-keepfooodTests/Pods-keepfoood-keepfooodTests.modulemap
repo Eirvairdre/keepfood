@@ -1,0 +1,6 @@
+module Pods_keepfoood_keepfooodTests {
+  umbrella header "Pods-keepfoood-keepfooodTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
